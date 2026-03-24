@@ -1,9 +1,3 @@
-# Home Assistant Blueprints
-
-Welcome to the Home Assistant Blueprints repository! This collection contains reusable automation blueprints designed to extend and enhance your Home Assistant smart home setup.
-
-## 📋 Available Blueprints
-
 ### Entity State Duration Notification
 **File:** `entity_state_duration_notification.yaml`
 
